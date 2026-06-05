@@ -36,4 +36,4 @@ git clone https://github.com/ivankothaj/predicting-TCR-specificity-TULIP
     
     depending on which subset you want to run on.
 5. Intermediate results are located in the data directory in a file called ***predict_results.csv***.
-6. Additionally, the overall prediction performance on the ***BATCAVE_subset.csv*** is displayed by several figures in the data directory.
+6. Additionally, the overall prediction performance on the ***BATCAVE_subset.csv*** is displayed, by several figures, in the data directory.
